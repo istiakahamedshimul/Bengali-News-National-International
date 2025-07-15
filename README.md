@@ -17,7 +17,7 @@ Politics (রাজনীতি)
 War/Crime (যুদ্ধ/অপরাধ)
 
 3. File Format
-Plain text (*.txt or *.tsv) with the following columns:
+Plain text (csv) with the following columns:
 
 Headline: Raw Bengali news headline.
 

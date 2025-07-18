@@ -25,5 +25,5 @@ Category: Primary category (e.g., "National Business").
 
 Scope: Geographical scope (national/international).
 
-Scope_Category: Combined scope and category (e.g., "national business").
+Category: Categories under scope (e.g., "business").
 
